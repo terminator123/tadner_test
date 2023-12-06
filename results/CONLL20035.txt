@@ -1,0 +1,36 @@
+----------------------------------------------
+----------------------------------------------
+if filter or not True
+mode use_type_name
+stage2_use_mlp False
+----------------------------------------------
+precision of span detection 0.8998141577969252 recall of span detection 0.9033242876526458 f1 of span detection 0.9015658061785865
+metric_all_stages_all:  {'f1': 0.8023952095808383, 'precision': 0.8036830545700288, 'recall': 0.8011114853486022}
+metric_stage1_filtered:  {'f1': 0.8944927047313823, 'precision': 0.8959283662780875, 'recall': 0.8930616369147861}
+precision of span detection 0.9144476894004466 recall of span detection 0.9028154681139756 f1 of span detection 0.9085943500896134
+metric_all_stages_all:  {'f1': 0.8407177481078323, 'precision': 0.8491668098264903, 'recall': 0.8324351633546648}
+metric_stage1_filtered:  {'f1': 0.9014371970405646, 'precision': 0.9104964782683388, 'recall': 0.8925564163017851}
+precision of span detection 0.8093716719914803 recall of span detection 0.9023066485753053 f1 of span detection 0.8533162242361055
+metric_all_stages_all:  {'f1': 0.719219699392389, 'precision': 0.6846270928462709, 'recall': 0.757494105759515}
+metric_stage1_filtered:  {'f1': 0.845219059801727, 'precision': 0.8045662100456621, 'recall': 0.8901987201077805}
+precision of span detection 0.8117683302526186 recall of span detection 0.8938263229308006 f1 of span detection 0.85082337746206
+metric_all_stages_all:  {'f1': 0.7725779967159278, 'precision': 0.7537648189682794, 'recall': 0.7923543280565847}
+metric_stage1_filtered:  {'f1': 0.8599343185550082, 'precision': 0.8389939122076258, 'recall': 0.8819467834287639}
+precision of span detection 0.8933877551020408 recall of span detection 0.9280868385345997 f1 of span detection 0.9104067881207886
+metric_all_stages_all:  {'f1': 0.8395921412583934, 'precision': 0.8267755102040817, 'recall': 0.8528123947457056}
+metric_stage1_filtered:  {'f1': 0.9030920998093342, 'precision': 0.8893061224489796, 'recall': 0.9173122263388346}
+precision of span detection 0.8880721683929168 recall of span detection 0.9016282225237449 f1 of span detection 0.8947988554115469
+metric_all_stages_all:  {'f1': 0.7906742703790675, 'precision': 0.7875041764116272, 'recall': 0.7938699898955878}
+metric_stage1_filtered:  {'f1': 0.886279771888628, 'precision': 0.8827263615101905, 'recall': 0.8898619063657798}
+precision of span detection 0.9035618279569892 recall of span detection 0.9121438263229308 f1 of span detection 0.9078325455773126
+metric_all_stages_all:  {'f1': 0.8386879730866273, 'precision': 0.8377016129032258, 'recall': 0.8396766588076794}
+metric_stage1_filtered:  {'f1': 0.8999158957106812, 'precision': 0.8988575268817204, 'recall': 0.9009767598518019}
+precision of span detection 0.8889978747752166 recall of span detection 0.9223202170963365 f1 of span detection 0.9053525347540166
+metric_all_stages_all:  {'f1': 0.8141020323517212, 'precision': 0.8021906163151872, 'recall': 0.8263725159986527}
+metric_stage1_filtered:  {'f1': 0.8967233513065117, 'precision': 0.8836030734019944, 'recall': 0.9102391377568205}
+precision of span detection 0.9080340100642027 recall of span detection 0.887550881953867 f1 of span detection 0.8976756154044087
+metric_all_stages_all:  {'f1': 0.818904367148107, 'precision': 0.8313378448724622, 'recall': 0.8068373189626137}
+metric_stage1_filtered:  {'f1': 0.8913768054012478, 'precision': 0.9049106368211001, 'recall': 0.8782418322667565}
+precision of span detection 0.8307383998766764 recall of span detection 0.9140094979647219 f1 of span detection 0.8703868206412015
+metric_all_stages_all:  {'f1': 0.8156999419135341, 'precision': 0.8040242106985114, 'recall': 0.8277197709666554}
+metric_stage1_filtered:  {'f1': 0.8888888888888888, 'precision': 0.8761655488303616, 'recall': 0.901987201077804}

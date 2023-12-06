@@ -1,0 +1,45 @@
+####################################################################
+CONLL20031
+IO_mode:  IO
+mode:  use_type_name
+type_mode:  original
+Filter:  True
+Adapt Stage1:  True
+Adapt Stage2:  True
+Adapt Stage1 finetune_target_epochs:  100
+Adapt Stage2 finetune_target_epochs:  100
+Adapt Stage2 finetune_target_threshold_stage2:  1
+mean_metric_stage1 {'f1': 0.7895966360035632, 'precision': 0.7504714614415686, 'recall': 0.8427917232021709, 'std_f1': 0.09920100292189869, 'std_precision': 0.1410622270945681, 'std_recall': 0.04637046094755558}
+mean_metric_all_stages {'f1': 0.7037705628741766, 'precision': 0.6888633409398259, 'recall': 0.7270293027955541, 'std_f1': 0.10599272988792428, 'std_precision': 0.14336124128032615, 'std_recall': 0.06214037600162242}
+mean_metric_stage1_filtered {'f1': 0.8046559990134075, 'precision': 0.7864654343184683, 'recall': 0.8325193667901649, 'std_f1': 0.09847430360056837, 'std_precision': 0.1416281852573509, 'std_recall': 0.04626852742028166}
+####################################################################
+####################################################################
+CONLL20031
+IO_mode:  IO
+mode:  use_type_name
+type_mode:  original
+Filter:  True
+Adapt Stage1:  True
+Adapt Stage2:  True
+Adapt Stage1 finetune_target_epochs:  100
+Adapt Stage2 finetune_target_epochs:  100
+Adapt Stage2 finetune_target_threshold_stage2:  1
+mean_metric_stage1 {'f1': 0.7895966360035632, 'precision': 0.7504714614415686, 'recall': 0.8427917232021709, 'std_f1': 0.09920100292189869, 'std_precision': 0.1410622270945681, 'std_recall': 0.04637046094755558}
+mean_metric_all_stages {'f1': 0.7037705628741766, 'precision': 0.6888633409398259, 'recall': 0.7270293027955541, 'std_f1': 0.10599272988792428, 'std_precision': 0.14336124128032615, 'std_recall': 0.06214037600162242}
+mean_metric_stage1_filtered {'f1': 0.8046559990134075, 'precision': 0.7864654343184683, 'recall': 0.8325193667901649, 'std_f1': 0.09847430360056837, 'std_precision': 0.1416281852573509, 'std_recall': 0.04626852742028166}
+####################################################################
+####################################################################
+CONLL20035
+IO_mode:  IO
+mode:  use_type_name
+type_mode:  original
+Filter:  True
+Adapt Stage1:  True
+Adapt Stage2:  True
+Adapt Stage1 finetune_target_epochs:  100
+Adapt Stage2 finetune_target_epochs:  100
+Adapt Stage2 finetune_target_threshold_stage2:  1
+mean_metric_stage1 {'f1': 0.890075291787564, 'precision': 0.8748193885609513, 'recall': 0.9068012211668928, 'std_f1': 0.021901429390027514, 'std_precision': 0.03879162618732677, 'std_recall': 0.01178252673023856}
+mean_metric_all_stages {'f1': 0.8052571379934438, 'precision': 0.7980775747616164, 'recall': 0.8130683731896262, 'std_f1': 0.03552283350917024, 'std_precision': 0.0459783876661954, 'std_recall': 0.026687574520508885}
+mean_metric_stage1_filtered {'f1': 0.8867360093133975, 'precision': 0.8785554236694061, 'recall': 0.8956382620410912, 'std_f1': 0.018126326439427975, 'std_precision': 0.031036275867091127, 'std_recall': 0.011493210660352481}
+####################################################################
